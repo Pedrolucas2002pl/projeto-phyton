@@ -9,6 +9,7 @@ Repositório dedicado aos estudos de lógica de programação, estruturas de dad
 
 ## 🚀 Como executar
 Para rodar o arquivo principal no terminal:
-```bash´´´
+```bash
 python inicio.py
-sssss
+´´´
+   
